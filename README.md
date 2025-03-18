@@ -5,6 +5,8 @@ Benvenut* in questa repository dedicata alla raccolta di corsi e materiali gratu
 Io sono Lidia - la developer di quartiere - e insieme alla mia community sto raccogliendo corsi e materiali gratuiti da mettere a disposizione di tutti per imparare non solo le basi della programmazione, ma anche 
 concetti più avanzati come le strutture dati e gli algoritmi e la gestione della memoria. 
 
+<a href="./CONTRIBUTING.md">COME CONTRIBUIRE 💖</a>
+
 ## Corsi:
 
 | Titolo del corso                                           | Argomenti              | Prezzo  | Inserito da:    |
