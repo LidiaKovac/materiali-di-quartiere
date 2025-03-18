@@ -1,4 +1,4 @@
-# Contribuire alla Repository di Corsi di Programmazione Gratuiti
+# Contribuire alla Repository di Quartiere
 
 Grazie per il tuo interesse nel contribuire a questa repository! Ecco come puoi aiutare a rendere questa lista ancora più ricca! 💖
 
@@ -8,6 +8,7 @@ Grazie per il tuo interesse nel contribuire a questa repository! Ecco come puoi 
 Se conosci un corso di programmazione gratuito che non è ancora elencato, segui questi passaggi:
 
 - **Controlla prima:** Assicurati che il corso non sia già presente nella lista.
+- Il corso deve essere gratuito o avere un costo inferiore ai 20$
 - **Invia una Pull Request (PR):** Crea una pull request (vedi sotto) seguendo questi passaggi:
   - Aggiungi il link al corso seguendo queste linee guida:
   ```
