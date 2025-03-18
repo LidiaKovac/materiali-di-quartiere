@@ -1,6 +1,9 @@
-# 📚 Corsi e materiali accessibili - lidiacodes
+# 📚 Corsi e materiali di quartiere - lidiacodes
 
-Benvenut* in questa repository dedicata alla raccolta di corsi e materiali gratuiti! Qui troverai risorse utili su vari argomenti, pensate per chi vuole imparare in modo autonomo e senza costi.
+Benvenut* in questa repository dedicata alla raccolta di corsi e materiali gratuiti! 
+
+Io sono Lidia - la developer di quartiere - e insieme alla mia community sto raccogliendo corsi e materiali gratuiti da mettere a disposizione di tutti per imparare non solo le basi della programmazione, ma anche 
+concetti più avanzati come le strutture dati e gli algoritmi e la gestione della memoria. 
 
 ## 🚀 Come usare questa repository
 Sfoglia le diverse categorie di corsi e materiali direttamente dai file o dalle cartelle. Ogni sezione è organizzata per argomento, e troverai descrizioni e link diretti ai contenuti.
@@ -9,15 +12,16 @@ Sfoglia le diverse categorie di corsi e materiali direttamente dai file o dalle 
 Vuoi aggiungere un corso o segnalare un materiale interessante? Segui questi semplici passaggi:
 1. Fai un fork di questa repository.
 2. Crea un nuovo branch con un nome descrittivo (es. `aggiunta-corso-python`).
-3. Aggiungi il tuo materiale seguendo l’organizzazione esistente.
-4. Apri una pull request spiegando brevemente le modifiche fatte.
+3. Aggiungi il corso nella tabella in ordine alfabetico seguendo questo schema:
+```
+| Titolo del corso | Argomenti separati da virgola | Prezzo ("gratis" se gratuito) |  Il tuo nome o nickname  |
+```
+5. Apri una pull request spiegando brevemente le modifiche fatte.
 
 ## 📥 Segnalare un problema
 Se trovi link non funzionanti o vuoi suggerire miglioramenti, apri una issue descrivendo il problema.
 
-## 📌 Licenza
-Questa raccolta è distribuita sotto la licenza [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it), che permette di condividere e adattare i materiali, a patto di citare l’autore originale e mantenere la stessa licenza.
-
 ---
 
 Contribuiamo a rendere l’apprendimento accessibile a tutti! 🌟
+
