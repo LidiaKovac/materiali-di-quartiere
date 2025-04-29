@@ -11,11 +11,10 @@ Se conosci un corso di programmazione gratuito che non è ancora elencato, segui
 - Il corso deve essere gratuito o avere un costo inferiore ai 20$
 - **Invia una Pull Request (PR):** Crea una pull request (vedi sotto) seguendo questi passaggi:
   - Aggiungi il link al corso seguendo queste linee guida:
-  ```
-  1. Usa questo template: 
-  | <a href='LINK DEL CORSO'> TITOLO DEL CORSO | PIATTAFORMA | ARGOMENTI DIVISI DA VIROGLA | PREZZO ("Free" se gratuito) | il tuo nome o nickname |
-  2. Inserisci il  corso in ordine alfabetico.
-  ```
+      1. Usa questo template: 
+        
+        `| <a href='LINK DEL CORSO'> TITOLO DEL CORSO | PIATTAFORMA | ARGOMENTI DIVISI DA VIROGLA | PREZZO ("Free" se gratuito) | il tuo nome o nickname |`
+      2. Inserisci il  corso in ordine alfabetico.
   - Verifica che il formato del link sia corretto e funzionante.
 
 ### 2. Modificare o Correggere un Corso Esistente
